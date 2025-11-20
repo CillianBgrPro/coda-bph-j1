@@ -5,6 +5,11 @@ echo $nb;
 
 echo "<br>";
 
+$str = "la vie l'univers et tout le reste";
+echo $str;
+
+echo "<br>";
+
 $nb_tab = [1, 2, 3, 3.5, 4];
 print_r($nb_tab);
 
