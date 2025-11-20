@@ -10,6 +10,8 @@ echo $str;
 
 echo "<br>";
 
+$nbstr = 
+
 $nb_tab = [1, 2, 3, 3.5, 4];
 print_r($nb_tab);
 
